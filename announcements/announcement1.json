@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "title": "Join S.P. Tech Hub",
+  "message": "Welcome to AI Quiz Pro! Join S.P. Tech Hub on Telegram to discover projects, updates, useful technology, and announcements from S.P. Tech Hub.",
+  "active": true,
+  "expires": "",
+  "buttons": [
+    {
+      "text": "Visit Telegram Channel",
+      "url": "https://t.me/S_P_Tech_Hub"
+    }
+  ]
+}
