@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "title": "Suggestions or Feedback?",
+  "message": "Have any suggestions for AI Quiz Pro, or would you like to share feedback? Tap the Contact button below to get in touch. Your feedback is welcome!",
+  "active": true,
+  "expires": "",
+  "buttons": [
+    {
+      "text": "Contact",
+      "url": "https://t.me/S_P_Tech_Hub_bot"
+    }
+  ]
+}
